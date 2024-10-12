@@ -114,7 +114,7 @@ header .menu{
 }
 .arrows{
     position: absolute;
-    top: 57%;
+    top: 58%;
     right: 50px;
     z-index: 100;
 }
@@ -203,7 +203,7 @@ header .menu{
         font-size: 20px;
     }
     .arrows{
-        top: 64%;
+        top: 62%;
         right: 2%;
     }
 
