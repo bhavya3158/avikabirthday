@@ -186,7 +186,7 @@ header .menu{
     .slider .list .item .content{
         position: absolute;
         left: 2%;
-        top: 40%;
+        top: 35%;
         width: 400px;
         max-width: 55%;
         z-index: 1;
@@ -203,7 +203,7 @@ header .menu{
         font-size: 20px;
     }
     .arrows{
-        top: 50%;
+        top: 55%;
         right: 2%;
     }
 
